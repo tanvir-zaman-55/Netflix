@@ -1,0 +1,90 @@
+body{  
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('D:/Netflix login/netflixbg.jpg');
+    font-family:  Helvetica;
+    display: flex;
+    justify-content: center;
+     color: darkgray;
+    margin-top: 5%;
+}
+#email {
+    width: 290px;
+    height: 40px;
+    padding: 5px;
+    padding-left: 20px;
+    margin-bottom: 40px;
+    border-bottom: 2px solid darkorange;
+    border-radius: 4px;
+    font-size: medium;
+    font-weight: 50;
+    margin-top: 10px;
+
+}
+#password{
+    width: 290px;
+    height: 40px;
+    padding: 5px;
+    padding-left: 20px;
+    margin-bottom: 70px;
+    border-bottom: 2px solid darkorange;
+    border-radius: 4px;
+    font-size: medium;
+}
+button{
+    width: 310px;
+    height: 45px;
+    background-color: red;
+    border : 0;
+    border-radius: 5px;
+   color: white;
+   font-weight: bold;
+   font-size: medium;
+}
+
+#checkbox{
+    align-items: flex-start;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    height:15px;
+    width: 15px;
+}
+
+.form{
+    border: 2px solid black;
+    height: 610px;
+    width: 314px;
+    padding: 40px 60px 0px 60px;
+    background-color: black;
+
+}
+
+h1{
+    color: white;
+}
+a{
+    color: white;
+}
+
+input{
+    background-color: rgb(51, 48, 48);
+    border: 0;
+}
+#last{
+    font-size: small;
+}
+#learn{
+    color:rgb(55, 55, 207);
+}
+
+label{
+    font-size: small;
+    margin-bottom: 10px;
+    position: absolute;
+    margin-top: 15px;
+}
+img{
+    width: 167px;
+    height: 45px;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
